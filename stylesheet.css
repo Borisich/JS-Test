@@ -1,0 +1,14 @@
+.invis {
+	display: none;
+}
+.val {
+	display: inline;
+}
+.varn {
+	color: red;
+	display: inline;
+}
+#firstGet {
+	margin-bottom:10px;
+
+}
